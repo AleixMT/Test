@@ -13,7 +13,6 @@
  * Aprtender sobre .gitignore y README.md
 
 
-https://github.com/AleixMT/Problemas-Computadores/blob/master/1/1.pdf
 
 <object data="https://github.com/AleixMT/Problemas-Computadores/blob/master/1/1.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/AleixMT/Problemas-Computadores/blob/master/1/1.pdf">
